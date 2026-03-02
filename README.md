@@ -25,7 +25,3 @@ I'm Marielle! Senior Quality Analyst with more 7 years of experience.
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 
-
-### ⚡️ GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariellems&show_icons=true&theme=radical)
