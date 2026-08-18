@@ -1,6 +1,6 @@
 ### Hi all! 👋
-I'm Marielle! Senior Quality Analyst with more 7 years of experience.
-- 👩🏼‍💻 I’m currently working on Quality Assurance at Itaú Unibanco.
+I'm Marielle! Senior Quality Analyst with 10 years of experience.
+- 👩🏼‍💻 I’m currently working Software Engineer at Itaú Unibanco.
 - 📔 Passionate for read books, learn new things and technologies.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mariellems/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mariellemeira/)
